@@ -1,12 +1,14 @@
 ### Framers in NYC
-- FrameArt NYC: https://www.yelp.com/biz/frameart-nyc-brooklyn-4
-- Fine Art Frameworks: http://www.fineartframeworks.com/
-- Brooklyn Frame Works: https://brooklynframeworks.com/
-- City Frame: http://www.cityframe.com/8uud2uwhz12j6674l5yjmcink13iok
-- Peter Muscato Framing: https://www.yelp.com/biz/peter-muscato-framing-brooklyn
-- 567 Framing: https://www.yelp.com/biz/567-framing-new-york
-- Skyframe & Display: https://skyframe.com/
-- Sullivan Street Frames: https://www.yelp.com/biz/sullivan-street-frames-new-york
+The name or GH handle of the recommender is listed in parenthesis:
+
+- 567 Framing (@erinekim): https://www.yelp.com/biz/567-framing-new-york
+- Brooklyn Frame Works (@anandaroop): https://brooklynframeworks.com/
+- City Frame (@jordanazeldin): http://www.cityframe.com/8uud2uwhz12j6674l5yjmcink13iok
+- Fine Art Frameworks (@owendodd): http://www.fineartframeworks.com/
+- FrameArt NYC (@owendodd): https://www.yelp.com/biz/frameart-nyc-brooklyn-4
+- Peter Muscato Framing (@bhoggard): https://www.yelp.com/biz/peter-muscato-framing-brooklyn
+- Skyframe & Display (@bhoggard): https://skyframe.com/
+- Sullivan Street Frames (@bhoggard): https://www.yelp.com/biz/sullivan-street-frames-new-york
 
 ### Online framers
 - https://www.framedestination.com/
