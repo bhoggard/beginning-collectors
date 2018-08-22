@@ -10,6 +10,11 @@ The name or GH handle of the recommender is listed in parenthesis:
 - Skyframe & Display (@bhoggard): https://skyframe.com/
 - Sullivan Street Frames (@bhoggard): https://www.yelp.com/biz/sullivan-street-frames-new-york
 
+
+### Framers in London
+- Eli Eliat (Angela R) - +447791732714
+
+
 ### Online framers
 - https://www.framedestination.com/
 - https://www.framesbymail.com/
