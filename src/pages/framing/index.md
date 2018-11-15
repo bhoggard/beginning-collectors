@@ -1,3 +1,8 @@
+---
+title: Framing
+date: "2018-08-22"
+---
+
 ### Framers in NYC
 The name or GH handle of the recommender is listed in parenthesis:
 
@@ -18,3 +23,4 @@ The name or GH handle of the recommender is listed in parenthesis:
 ### Online framers
 - https://www.framedestination.com/
 - https://www.framesbymail.com/
+- https://www.levelframes.com/
