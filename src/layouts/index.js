@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import {Sans, Serif} from '@artsy/palette'
 
 import { rhythm, scale } from '../utils/typography'
 
@@ -22,27 +23,23 @@ class Template extends React.Component {
             marginTop: 0,
           }}
         >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-            to={'/'}
-          >
-            Beginning Collectors
+            <Link
+              style={{
+                boxShadow: 'none',
+                textDecoration: 'none',
+                color: 'inherit',
+              }}
+              to={'/'}
+            >
+            <Sans size="10">
+              Beginning Collectors
+            </Sans>
           </Link>
         </h1>
       )
     } else {
       header = (
-        <h3
-          style={{
-            fontFamily: 'Montserrat, sans-serif',
-            marginTop: 0,
-            marginBottom: rhythm(-1),
-          }}
-        >
+        <Sans size="8">
           <Link
             style={{
               boxShadow: 'none',
@@ -53,7 +50,7 @@ class Template extends React.Component {
           >
             Beginning Collectors
           </Link>
-        </h3>
+        </Sans>
       )
     }
     return (

@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
+import {Sans, Serif} from '@artsy/palette'
 
 import Bio from '../components/Bio'
 import { rhythm, scale } from '../utils/typography'
@@ -15,17 +16,7 @@ class BlogPostTemplate extends React.Component {
     return (
       <div>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <h1>{post.frontmatter.title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: 'block',
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-1),
-          }}
-        >
-          {post.frontmatter.date}
-        </p>
+        <Sans size="10" style={{marginTop: "20px"}}>{post.frontmatter.title}</Sans>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
