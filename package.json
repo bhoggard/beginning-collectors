@@ -27,6 +27,7 @@
     "lodash": "^4.17.5",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "styled-components": "^4.1.1",
     "typeface-merriweather": "0.0.43",
     "typeface-montserrat": "0.0.43",
     "typography-theme-parnassus": "^0.15.10",
